@@ -10,6 +10,7 @@ namespace DailyTracker
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
